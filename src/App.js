@@ -2,7 +2,7 @@ import UserInfo from "./components/userInfo";
 
 function App() {
   const workSkill = ["shop","fabric","school"];
-  const homePets =  ["cat","dog","mouse","snake","bull"];
+  const homePets =  ["cat","dog","mouse","snake","bull","cowgit "];
   const user = {
     firstName: "Vanya",
     age: 39,
