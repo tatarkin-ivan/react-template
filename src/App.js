@@ -5,6 +5,9 @@ function App() {
   const dog={nickname: 'Bobik', age: 11};
   const homePets =  ["cat","dog","mouse","snake","bull","cowgit "];
   console.log(dog);
+  const cat={nickName:"Vasya", age:5};
+  console.log(cat);
+
   const user = {
     firstName: "Vanya",
     age: 39,
